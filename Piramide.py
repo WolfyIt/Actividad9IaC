@@ -1,4 +1,4 @@
-tamaño = int(input("Ingrese el tamaño de la pirámide (mínimo 3 asteriscos): "))
+tamaño = 10
 
 if tamaño < 3:
   print("El tamaño debe ser mayor o igual a 3")
